@@ -99,10 +99,12 @@ endmodule
 
 ### Nclaunch Work Library Window
 
-![Screenshot 2025-05-21 155538](https://github.com/user-attachments/assets/187ebe28-40e2-44b2-9b78-d08bdc67d62c)
+![vlsiexp7in](https://github.com/user-attachments/assets/17acd938-4e12-4af2-94be-9062f807e5dd)
+
 
 ### Simulation Waveforms
-![Screenshot 2025-05-21 155512](https://github.com/user-attachments/assets/4d1457be-ef30-4b8b-a58d-aa8ac39c078c)
+
+![vlsiexp7out](https://github.com/user-attachments/assets/b1c39857-e83c-4ee3-9b81-a315e14ab1f1)
 
 
 
